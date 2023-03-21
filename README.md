@@ -1,4 +1,4 @@
-# Password-Generator
+# Account Saver
 This is a Python Tkinter application in where we can store every account we have in the internet. We can also generate a new password with the user's selected criteria.
 
 </br>
